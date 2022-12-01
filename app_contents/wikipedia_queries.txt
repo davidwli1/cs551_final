@@ -1,0 +1,16 @@
+Ammonia
+Acid neutralizing capacity
+Calcium
+Chloride
+Color
+Conductivity (electrolytic)
+Oxygen
+Magnesium
+Nitrite
+Nitrogen
+Potassium
+Phosphorus
+Silica
+Sodium
+Sulfate
+Turbidity

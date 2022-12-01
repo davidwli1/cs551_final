@@ -1,0 +1,80 @@
+Ammonia
+Ammonia is a chemical compound consisting of hydrogen and nitrogen. Here, it is measured in milligrams per liter (MG/L). It is a weak base, and lowers the value of pH. Too much ammonia in water creates a toxic buildup in the blood and tissue of organic creatures; however, its severity depends on other factors, such as pH and temperature.
+ammonia.jpg
+Chemical composition of Ammonia (NH3)
+
+Acid Neutralizing Capacity
+Acid Neutralizing Capacity, or ANC for short, measures the ability of water to neutralize acid, where the higher the ANC value, the more acid is needed to lower the pH. Here, it is measured in microequivalents per liter (UEQ/L), which is the amount of a substance needed to perform a reaction.
+cat.jfif
+This is a cat
+
+Calcium
+placeholder text
+cat.jfif
+This is a cat
+
+Chloride
+placeholder text
+cat.jfif
+This is a cat
+
+Color
+placeholder text
+cat.jfif
+This is a cat
+
+Conductivity
+placeholder text
+cat.jfif
+This is a cat
+
+Dissolved Oxygen Content
+placeholder text
+cat.jfif
+This is a cat
+
+Magnesium
+placeholder text
+cat.jfif
+This is a cat
+
+Nitrite and Nitrate
+placeholder text
+cat.jfif
+This is a cat
+
+Total Nitrogen
+placeholder text
+cat.jfif
+This is a cat
+
+Potassium
+placeholder text
+cat.jfif
+This is a cat
+
+Phosphorus
+placeholder text
+cat.jfif
+This is a cat
+
+Silica
+placeholder text
+cat.jfif
+This is a cat
+
+Sodium
+placeholder text
+cat.jfif
+This is a cat
+
+Sulfate
+placeholder text
+cat.jfif
+This is a cat
+
+Turbulence
+placeholder text
+cat.jfif
+This is a cat
+
