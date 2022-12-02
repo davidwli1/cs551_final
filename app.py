@@ -34,7 +34,7 @@ labels = [ # used in sidebar
 @dataclass
 class Input_Feature():
     dataset_label: str # label used by machine
-    mean_value: float
+    mean_value: float # used for default values
     max_value: float
 
 features = []
